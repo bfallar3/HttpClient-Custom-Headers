@@ -7,8 +7,8 @@
     <ProjectGuid>{E6956A28-8C4C-4D65-9DCC-195BCDD4251A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ConsoleApplication6</RootNamespace>
-    <AssemblyName>ConsoleApplication6</AssemblyName>
+    <RootNamespace>HttpCustomHeadersDemo</RootNamespace>
+    <AssemblyName>HttpCustomHeadersDemo</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
